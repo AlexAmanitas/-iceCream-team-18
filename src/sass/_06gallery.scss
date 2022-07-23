@@ -1,0 +1,14 @@
+.gallery-img {
+    display: block;
+    margin: 0 auto;
+    @media screen and (max-width: 319px)  {width: 100%;}
+}
+
+.gallery {
+    text-align: center;
+    padding-top: 60px;
+    background-image: linear-gradient(
+    to bottom,
+    #FFF5F6 88px,
+    #ffffff 88px);
+    }
